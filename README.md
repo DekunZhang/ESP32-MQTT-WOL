@@ -17,3 +17,5 @@ Please mannually add a `confidential.h` and write the following macros.
 
 #endif
 ```
+
+publish a `WakeDevice` message to `inTpoic` will wake the device.
